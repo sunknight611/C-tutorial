@@ -1,0 +1,17 @@
+F:\C#\C#_tutorial\ConsoleApp1\ShowPicInForm\bin\Debug\net6.0-windows\ShowPicInForm.exe
+F:\C#\C#_tutorial\ConsoleApp1\ShowPicInForm\bin\Debug\net6.0-windows\ShowPicInForm.deps.json
+F:\C#\C#_tutorial\ConsoleApp1\ShowPicInForm\bin\Debug\net6.0-windows\ShowPicInForm.runtimeconfig.json
+F:\C#\C#_tutorial\ConsoleApp1\ShowPicInForm\bin\Debug\net6.0-windows\ShowPicInForm.dll
+F:\C#\C#_tutorial\ConsoleApp1\ShowPicInForm\bin\Debug\net6.0-windows\ShowPicInForm.pdb
+F:\C#\C#_tutorial\ConsoleApp1\ShowPicInForm\obj\Debug\net6.0-windows\ShowPicInForm.csproj.AssemblyReference.cache
+F:\C#\C#_tutorial\ConsoleApp1\ShowPicInForm\obj\Debug\net6.0-windows\ShowPicInForm.Form1.resources
+F:\C#\C#_tutorial\ConsoleApp1\ShowPicInForm\obj\Debug\net6.0-windows\ShowPicInForm.csproj.GenerateResource.cache
+F:\C#\C#_tutorial\ConsoleApp1\ShowPicInForm\obj\Debug\net6.0-windows\ShowPicInForm.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\C#_tutorial\ConsoleApp1\ShowPicInForm\obj\Debug\net6.0-windows\ShowPicInForm.AssemblyInfoInputs.cache
+F:\C#\C#_tutorial\ConsoleApp1\ShowPicInForm\obj\Debug\net6.0-windows\ShowPicInForm.AssemblyInfo.cs
+F:\C#\C#_tutorial\ConsoleApp1\ShowPicInForm\obj\Debug\net6.0-windows\ShowPicInForm.csproj.CoreCompileInputs.cache
+F:\C#\C#_tutorial\ConsoleApp1\ShowPicInForm\obj\Debug\net6.0-windows\ShowPicInForm.dll
+F:\C#\C#_tutorial\ConsoleApp1\ShowPicInForm\obj\Debug\net6.0-windows\refint\ShowPicInForm.dll
+F:\C#\C#_tutorial\ConsoleApp1\ShowPicInForm\obj\Debug\net6.0-windows\ShowPicInForm.pdb
+F:\C#\C#_tutorial\ConsoleApp1\ShowPicInForm\obj\Debug\net6.0-windows\ShowPicInForm.genruntimeconfig.cache
+F:\C#\C#_tutorial\ConsoleApp1\ShowPicInForm\obj\Debug\net6.0-windows\ref\ShowPicInForm.dll

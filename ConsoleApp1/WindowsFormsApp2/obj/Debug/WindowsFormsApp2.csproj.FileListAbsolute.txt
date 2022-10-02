@@ -1,0 +1,11 @@
+F:\C#\C#_tutorial\ConsoleApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+F:\C#\C#_tutorial\ConsoleApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+F:\C#\C#_tutorial\ConsoleApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+F:\C#\C#_tutorial\ConsoleApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+F:\C#\C#_tutorial\ConsoleApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+F:\C#\C#_tutorial\ConsoleApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.frmMain.resources
+F:\C#\C#_tutorial\ConsoleApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+F:\C#\C#_tutorial\ConsoleApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+F:\C#\C#_tutorial\ConsoleApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+F:\C#\C#_tutorial\ConsoleApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+F:\C#\C#_tutorial\ConsoleApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
