@@ -1,0 +1,12 @@
+F:\C#\C#_tutorial\ConsoleApp1\MyClassLibrary\bin\Debug\net6.0\MyClassLibrary.deps.json
+F:\C#\C#_tutorial\ConsoleApp1\MyClassLibrary\bin\Debug\net6.0\MyClassLibrary.dll
+F:\C#\C#_tutorial\ConsoleApp1\MyClassLibrary\bin\Debug\net6.0\MyClassLibrary.pdb
+F:\C#\C#_tutorial\ConsoleApp1\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.csproj.AssemblyReference.cache
+F:\C#\C#_tutorial\ConsoleApp1\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\C#_tutorial\ConsoleApp1\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.AssemblyInfoInputs.cache
+F:\C#\C#_tutorial\ConsoleApp1\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.AssemblyInfo.cs
+F:\C#\C#_tutorial\ConsoleApp1\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.csproj.CoreCompileInputs.cache
+F:\C#\C#_tutorial\ConsoleApp1\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.dll
+F:\C#\C#_tutorial\ConsoleApp1\MyClassLibrary\obj\Debug\net6.0\refint\MyClassLibrary.dll
+F:\C#\C#_tutorial\ConsoleApp1\MyClassLibrary\obj\Debug\net6.0\MyClassLibrary.pdb
+F:\C#\C#_tutorial\ConsoleApp1\MyClassLibrary\obj\Debug\net6.0\ref\MyClassLibrary.dll

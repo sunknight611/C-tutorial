@@ -13,3 +13,8 @@ F:\C#\C#_tutorial\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dl
 F:\C#\C#_tutorial\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
 F:\C#\C#_tutorial\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
 F:\C#\C#_tutorial\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+F:\C#\C#_tutorial\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\MyClassLibrary.dll
+F:\C#\C#_tutorial\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\MyClassLibrary.pdb
+F:\C#\C#_tutorial\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CopyComplete
+F:\C#\C#_tutorial\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Accessibility.dll
+F:\C#\C#_tutorial\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Accessibility.xml
