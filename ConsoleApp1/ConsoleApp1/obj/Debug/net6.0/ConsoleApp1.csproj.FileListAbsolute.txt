@@ -18,3 +18,4 @@ F:\C#\C#_tutorial\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\MyClassLibrary.pdb
 F:\C#\C#_tutorial\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CopyComplete
 F:\C#\C#_tutorial\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Accessibility.dll
 F:\C#\C#_tutorial\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Accessibility.xml
+F:\C#\C#_tutorial\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Newtonsoft.Json.dll

@@ -16,20 +16,16 @@ namespace WindowsFormsApp2
         {
             InitializeComponent();
         }
-
+        private int counter = 0;
         private void button1_Click(object sender, EventArgs e)
         {
-            var res = openFileDialog1.ShowDialog();
-            if(res == DialogResult.OK)
-            {
-                MessageBox.Show(openFileDialog1.FileName);
-                pictureBox1.ImageLocation = openFileDialog1.FileName;
-            }
-            else
-            {
-                MessageBox.Show("user canceled");
-            }
-            
+            this.counter++;
+            label1.Text = counter.ToString();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
