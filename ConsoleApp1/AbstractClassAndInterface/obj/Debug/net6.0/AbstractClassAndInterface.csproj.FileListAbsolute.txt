@@ -1,0 +1,15 @@
+F:\C#\C#_tutorial\ConsoleApp1\AbstractClassAndInterface\bin\Debug\net6.0\AbstractClassAndInterface.exe
+F:\C#\C#_tutorial\ConsoleApp1\AbstractClassAndInterface\bin\Debug\net6.0\AbstractClassAndInterface.deps.json
+F:\C#\C#_tutorial\ConsoleApp1\AbstractClassAndInterface\bin\Debug\net6.0\AbstractClassAndInterface.runtimeconfig.json
+F:\C#\C#_tutorial\ConsoleApp1\AbstractClassAndInterface\bin\Debug\net6.0\AbstractClassAndInterface.dll
+F:\C#\C#_tutorial\ConsoleApp1\AbstractClassAndInterface\bin\Debug\net6.0\AbstractClassAndInterface.pdb
+F:\C#\C#_tutorial\ConsoleApp1\AbstractClassAndInterface\obj\Debug\net6.0\AbstractClassAndInterface.csproj.AssemblyReference.cache
+F:\C#\C#_tutorial\ConsoleApp1\AbstractClassAndInterface\obj\Debug\net6.0\AbstractClassAndInterface.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\C#_tutorial\ConsoleApp1\AbstractClassAndInterface\obj\Debug\net6.0\AbstractClassAndInterface.AssemblyInfoInputs.cache
+F:\C#\C#_tutorial\ConsoleApp1\AbstractClassAndInterface\obj\Debug\net6.0\AbstractClassAndInterface.AssemblyInfo.cs
+F:\C#\C#_tutorial\ConsoleApp1\AbstractClassAndInterface\obj\Debug\net6.0\AbstractClassAndInterface.csproj.CoreCompileInputs.cache
+F:\C#\C#_tutorial\ConsoleApp1\AbstractClassAndInterface\obj\Debug\net6.0\AbstractClassAndInterface.dll
+F:\C#\C#_tutorial\ConsoleApp1\AbstractClassAndInterface\obj\Debug\net6.0\refint\AbstractClassAndInterface.dll
+F:\C#\C#_tutorial\ConsoleApp1\AbstractClassAndInterface\obj\Debug\net6.0\AbstractClassAndInterface.pdb
+F:\C#\C#_tutorial\ConsoleApp1\AbstractClassAndInterface\obj\Debug\net6.0\AbstractClassAndInterface.genruntimeconfig.cache
+F:\C#\C#_tutorial\ConsoleApp1\AbstractClassAndInterface\obj\Debug\net6.0\ref\AbstractClassAndInterface.dll

@@ -1,0 +1,15 @@
+F:\C#\C#_tutorial\ConsoleApp1\EmbedException\bin\Release\net6.0\EmbedException.exe
+F:\C#\C#_tutorial\ConsoleApp1\EmbedException\bin\Release\net6.0\EmbedException.deps.json
+F:\C#\C#_tutorial\ConsoleApp1\EmbedException\bin\Release\net6.0\EmbedException.runtimeconfig.json
+F:\C#\C#_tutorial\ConsoleApp1\EmbedException\bin\Release\net6.0\EmbedException.dll
+F:\C#\C#_tutorial\ConsoleApp1\EmbedException\bin\Release\net6.0\EmbedException.pdb
+F:\C#\C#_tutorial\ConsoleApp1\EmbedException\obj\Release\net6.0\EmbedException.csproj.AssemblyReference.cache
+F:\C#\C#_tutorial\ConsoleApp1\EmbedException\obj\Release\net6.0\EmbedException.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\C#_tutorial\ConsoleApp1\EmbedException\obj\Release\net6.0\EmbedException.AssemblyInfoInputs.cache
+F:\C#\C#_tutorial\ConsoleApp1\EmbedException\obj\Release\net6.0\EmbedException.AssemblyInfo.cs
+F:\C#\C#_tutorial\ConsoleApp1\EmbedException\obj\Release\net6.0\EmbedException.csproj.CoreCompileInputs.cache
+F:\C#\C#_tutorial\ConsoleApp1\EmbedException\obj\Release\net6.0\EmbedException.dll
+F:\C#\C#_tutorial\ConsoleApp1\EmbedException\obj\Release\net6.0\refint\EmbedException.dll
+F:\C#\C#_tutorial\ConsoleApp1\EmbedException\obj\Release\net6.0\EmbedException.pdb
+F:\C#\C#_tutorial\ConsoleApp1\EmbedException\obj\Release\net6.0\EmbedException.genruntimeconfig.cache
+F:\C#\C#_tutorial\ConsoleApp1\EmbedException\obj\Release\net6.0\ref\EmbedException.dll

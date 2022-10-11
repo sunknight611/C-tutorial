@@ -80,14 +80,17 @@ namespace ConsoleApp1
             //var json = JsonConvert.SerializeObject(user);
             //Console.WriteLine(json);
 
-            Object o = 100;
-            int i = (int)o;
-            Console.WriteLine(i);
+            //Object o = 100;
+            //int i = (int)o;
+            //Console.WriteLine(i);
 
             //Parent p = new Child();
             //p.overload();
             //(p as Child).overload(1);
             //p.overridef();
+            Parent parent = new Child();
+            parent.overridef();
+
 
         }
 
