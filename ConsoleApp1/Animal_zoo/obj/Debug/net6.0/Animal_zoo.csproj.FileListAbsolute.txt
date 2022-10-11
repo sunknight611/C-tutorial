@@ -1,0 +1,15 @@
+F:\C#\C#_tutorial\ConsoleApp1\Animal_zoo\bin\Debug\net6.0\Animal_zoo.exe
+F:\C#\C#_tutorial\ConsoleApp1\Animal_zoo\bin\Debug\net6.0\Animal_zoo.deps.json
+F:\C#\C#_tutorial\ConsoleApp1\Animal_zoo\bin\Debug\net6.0\Animal_zoo.runtimeconfig.json
+F:\C#\C#_tutorial\ConsoleApp1\Animal_zoo\bin\Debug\net6.0\Animal_zoo.dll
+F:\C#\C#_tutorial\ConsoleApp1\Animal_zoo\bin\Debug\net6.0\Animal_zoo.pdb
+F:\C#\C#_tutorial\ConsoleApp1\Animal_zoo\obj\Debug\net6.0\Animal_zoo.csproj.AssemblyReference.cache
+F:\C#\C#_tutorial\ConsoleApp1\Animal_zoo\obj\Debug\net6.0\Animal_zoo.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\C#_tutorial\ConsoleApp1\Animal_zoo\obj\Debug\net6.0\Animal_zoo.AssemblyInfoInputs.cache
+F:\C#\C#_tutorial\ConsoleApp1\Animal_zoo\obj\Debug\net6.0\Animal_zoo.AssemblyInfo.cs
+F:\C#\C#_tutorial\ConsoleApp1\Animal_zoo\obj\Debug\net6.0\Animal_zoo.csproj.CoreCompileInputs.cache
+F:\C#\C#_tutorial\ConsoleApp1\Animal_zoo\obj\Debug\net6.0\Animal_zoo.dll
+F:\C#\C#_tutorial\ConsoleApp1\Animal_zoo\obj\Debug\net6.0\refint\Animal_zoo.dll
+F:\C#\C#_tutorial\ConsoleApp1\Animal_zoo\obj\Debug\net6.0\Animal_zoo.pdb
+F:\C#\C#_tutorial\ConsoleApp1\Animal_zoo\obj\Debug\net6.0\Animal_zoo.genruntimeconfig.cache
+F:\C#\C#_tutorial\ConsoleApp1\Animal_zoo\obj\Debug\net6.0\ref\Animal_zoo.dll

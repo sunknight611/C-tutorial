@@ -1,0 +1,15 @@
+F:\C#\C#_tutorial\ConsoleApp1\ExceptionCatch\bin\Debug\net6.0\ExceptionCatch.exe
+F:\C#\C#_tutorial\ConsoleApp1\ExceptionCatch\bin\Debug\net6.0\ExceptionCatch.deps.json
+F:\C#\C#_tutorial\ConsoleApp1\ExceptionCatch\bin\Debug\net6.0\ExceptionCatch.runtimeconfig.json
+F:\C#\C#_tutorial\ConsoleApp1\ExceptionCatch\bin\Debug\net6.0\ExceptionCatch.dll
+F:\C#\C#_tutorial\ConsoleApp1\ExceptionCatch\bin\Debug\net6.0\ExceptionCatch.pdb
+F:\C#\C#_tutorial\ConsoleApp1\ExceptionCatch\obj\Debug\net6.0\ExceptionCatch.csproj.AssemblyReference.cache
+F:\C#\C#_tutorial\ConsoleApp1\ExceptionCatch\obj\Debug\net6.0\ExceptionCatch.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\C#_tutorial\ConsoleApp1\ExceptionCatch\obj\Debug\net6.0\ExceptionCatch.AssemblyInfoInputs.cache
+F:\C#\C#_tutorial\ConsoleApp1\ExceptionCatch\obj\Debug\net6.0\ExceptionCatch.AssemblyInfo.cs
+F:\C#\C#_tutorial\ConsoleApp1\ExceptionCatch\obj\Debug\net6.0\ExceptionCatch.csproj.CoreCompileInputs.cache
+F:\C#\C#_tutorial\ConsoleApp1\ExceptionCatch\obj\Debug\net6.0\ExceptionCatch.dll
+F:\C#\C#_tutorial\ConsoleApp1\ExceptionCatch\obj\Debug\net6.0\refint\ExceptionCatch.dll
+F:\C#\C#_tutorial\ConsoleApp1\ExceptionCatch\obj\Debug\net6.0\ExceptionCatch.pdb
+F:\C#\C#_tutorial\ConsoleApp1\ExceptionCatch\obj\Debug\net6.0\ExceptionCatch.genruntimeconfig.cache
+F:\C#\C#_tutorial\ConsoleApp1\ExceptionCatch\obj\Debug\net6.0\ref\ExceptionCatch.dll

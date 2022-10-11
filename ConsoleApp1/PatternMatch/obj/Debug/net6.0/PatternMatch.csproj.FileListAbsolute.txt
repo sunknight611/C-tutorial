@@ -1,0 +1,15 @@
+F:\C#\C#_tutorial\ConsoleApp1\PatternMatch\bin\Debug\net6.0\PatternMatch.exe
+F:\C#\C#_tutorial\ConsoleApp1\PatternMatch\bin\Debug\net6.0\PatternMatch.deps.json
+F:\C#\C#_tutorial\ConsoleApp1\PatternMatch\bin\Debug\net6.0\PatternMatch.runtimeconfig.json
+F:\C#\C#_tutorial\ConsoleApp1\PatternMatch\bin\Debug\net6.0\PatternMatch.dll
+F:\C#\C#_tutorial\ConsoleApp1\PatternMatch\bin\Debug\net6.0\PatternMatch.pdb
+F:\C#\C#_tutorial\ConsoleApp1\PatternMatch\obj\Debug\net6.0\PatternMatch.csproj.AssemblyReference.cache
+F:\C#\C#_tutorial\ConsoleApp1\PatternMatch\obj\Debug\net6.0\PatternMatch.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\C#_tutorial\ConsoleApp1\PatternMatch\obj\Debug\net6.0\PatternMatch.AssemblyInfoInputs.cache
+F:\C#\C#_tutorial\ConsoleApp1\PatternMatch\obj\Debug\net6.0\PatternMatch.AssemblyInfo.cs
+F:\C#\C#_tutorial\ConsoleApp1\PatternMatch\obj\Debug\net6.0\PatternMatch.csproj.CoreCompileInputs.cache
+F:\C#\C#_tutorial\ConsoleApp1\PatternMatch\obj\Debug\net6.0\PatternMatch.dll
+F:\C#\C#_tutorial\ConsoleApp1\PatternMatch\obj\Debug\net6.0\refint\PatternMatch.dll
+F:\C#\C#_tutorial\ConsoleApp1\PatternMatch\obj\Debug\net6.0\PatternMatch.pdb
+F:\C#\C#_tutorial\ConsoleApp1\PatternMatch\obj\Debug\net6.0\PatternMatch.genruntimeconfig.cache
+F:\C#\C#_tutorial\ConsoleApp1\PatternMatch\obj\Debug\net6.0\ref\PatternMatch.dll

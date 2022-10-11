@@ -1,0 +1,15 @@
+F:\C#\C#_tutorial\ConsoleApp1\GenericProgram\bin\Debug\net6.0\GenericProgram.exe
+F:\C#\C#_tutorial\ConsoleApp1\GenericProgram\bin\Debug\net6.0\GenericProgram.deps.json
+F:\C#\C#_tutorial\ConsoleApp1\GenericProgram\bin\Debug\net6.0\GenericProgram.runtimeconfig.json
+F:\C#\C#_tutorial\ConsoleApp1\GenericProgram\bin\Debug\net6.0\GenericProgram.dll
+F:\C#\C#_tutorial\ConsoleApp1\GenericProgram\bin\Debug\net6.0\GenericProgram.pdb
+F:\C#\C#_tutorial\ConsoleApp1\GenericProgram\obj\Debug\net6.0\GenericProgram.csproj.AssemblyReference.cache
+F:\C#\C#_tutorial\ConsoleApp1\GenericProgram\obj\Debug\net6.0\GenericProgram.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\C#_tutorial\ConsoleApp1\GenericProgram\obj\Debug\net6.0\GenericProgram.AssemblyInfoInputs.cache
+F:\C#\C#_tutorial\ConsoleApp1\GenericProgram\obj\Debug\net6.0\GenericProgram.AssemblyInfo.cs
+F:\C#\C#_tutorial\ConsoleApp1\GenericProgram\obj\Debug\net6.0\GenericProgram.csproj.CoreCompileInputs.cache
+F:\C#\C#_tutorial\ConsoleApp1\GenericProgram\obj\Debug\net6.0\GenericProgram.dll
+F:\C#\C#_tutorial\ConsoleApp1\GenericProgram\obj\Debug\net6.0\refint\GenericProgram.dll
+F:\C#\C#_tutorial\ConsoleApp1\GenericProgram\obj\Debug\net6.0\GenericProgram.pdb
+F:\C#\C#_tutorial\ConsoleApp1\GenericProgram\obj\Debug\net6.0\GenericProgram.genruntimeconfig.cache
+F:\C#\C#_tutorial\ConsoleApp1\GenericProgram\obj\Debug\net6.0\ref\GenericProgram.dll
