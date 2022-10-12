@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z85IWVoRN082tXybGwPvz6+buh4vWs5VATxR6pQKLVCIVNoTYI6JEYGQp4SL5rXPAV6x76fFpSeJR+Wzgzquzw==",
+  "dgSpecHash": "FZ6El50OMSp8djo7NUOruCK43cxIgkQnWrw7lglfWfTjD03aVEN+If/tVTJ5j8h1/t9IVcF6dPCLm1ehQkD+Pw==",
   "success": true,
-  "projectFilePath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\AbstractClassAndInterface\\AbstractClassAndInterface.csproj",
+  "projectFilePath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\AbstractClassAndInterface\\AbstractClassAndInterface.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

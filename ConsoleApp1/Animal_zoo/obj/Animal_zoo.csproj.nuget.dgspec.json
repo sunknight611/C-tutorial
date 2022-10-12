@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\C#_tutorial\\ConsoleApp1\\Animal_zoo\\Animal_zoo.csproj": {}
+    "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\Animal_zoo\\Animal_zoo.csproj": {}
   },
   "projects": {
-    "F:\\C#\\C#_tutorial\\ConsoleApp1\\Animal_zoo\\Animal_zoo.csproj": {
+    "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\Animal_zoo\\Animal_zoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\C#_tutorial\\ConsoleApp1\\Animal_zoo\\Animal_zoo.csproj",
+        "projectUniqueName": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\Animal_zoo\\Animal_zoo.csproj",
         "projectName": "Animal_zoo",
-        "projectPath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\Animal_zoo\\Animal_zoo.csproj",
+        "projectPath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\Animal_zoo\\Animal_zoo.csproj",
         "packagesPath": "C:\\Users\\81944\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\Animal_zoo\\obj\\",
+        "outputPath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\Animal_zoo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\vs SDK\\NuGetPackages"

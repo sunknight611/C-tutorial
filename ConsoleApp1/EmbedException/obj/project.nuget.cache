@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1qrp2RZ0v3jXx3454fODRTxPTkLUW5DmJ5WKmU9ToFNVDPjSyo7A3UcoWGgAKxxtF1PKXEO992BWkZtg91iqag==",
+  "dgSpecHash": "xLlfz1TskwoYtQCQZFlp1Ym5yo1iE6JdLlkzudBbsiA/uX9yz730o01BlmvF1KZC57CELzI0P7rIsg8johZqiA==",
   "success": true,
-  "projectFilePath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\EmbedException\\EmbedException.csproj",
+  "projectFilePath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\EmbedException\\EmbedException.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

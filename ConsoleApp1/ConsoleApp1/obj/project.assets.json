@@ -58,11 +58,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\C#_tutorial\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\81944\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\vs SDK\\NuGetPackages"

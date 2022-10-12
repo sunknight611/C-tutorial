@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7qmz2+YRs2IT6HQhICYhgPjKrpbtHSNsPna5/ecG0wpIjkWBt4Za7tPsuq+Yl7IAl9a8XLK/3yo715N5Z43ryQ==",
+  "dgSpecHash": "R9lsTGlWR/iE8DdgZUIqL7yLux5/2XCqhF44XQ3wlp6JU/5WzJuhS6y2hAZmbWpBQr0hZ6LdxWG6VL1htG4Y+A==",
   "success": true,
-  "projectFilePath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\GenericProgram\\GenericProgram.csproj",
+  "projectFilePath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\GenericProgram\\GenericProgram.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

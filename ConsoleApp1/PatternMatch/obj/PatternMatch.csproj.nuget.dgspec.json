@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\C#_tutorial\\ConsoleApp1\\PatternMatch\\PatternMatch.csproj": {}
+    "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\PatternMatch\\PatternMatch.csproj": {}
   },
   "projects": {
-    "F:\\C#\\C#_tutorial\\ConsoleApp1\\PatternMatch\\PatternMatch.csproj": {
+    "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\PatternMatch\\PatternMatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\C#_tutorial\\ConsoleApp1\\PatternMatch\\PatternMatch.csproj",
+        "projectUniqueName": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\PatternMatch\\PatternMatch.csproj",
         "projectName": "PatternMatch",
-        "projectPath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\PatternMatch\\PatternMatch.csproj",
+        "projectPath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\PatternMatch\\PatternMatch.csproj",
         "packagesPath": "C:\\Users\\81944\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\PatternMatch\\obj\\",
+        "outputPath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\PatternMatch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\vs SDK\\NuGetPackages"

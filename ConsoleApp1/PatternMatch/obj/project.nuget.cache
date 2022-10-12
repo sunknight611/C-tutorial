@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LVYjbMdff0VP6DfVOb/g8WqgojYHgNNQOB84sRzNC7Vzy+jJKS2/+ox/n/c7bXoF+UXpYy57UHT4oRl2VtV3PQ==",
+  "dgSpecHash": "VX+ZL9ec0ARgI4W/DYiD5ch9CoybnhCQwG5ryeLbcBkcB83e8cErQBbSQMFM9Gr/lpVd+TUcLc378FDjVphNiA==",
   "success": true,
-  "projectFilePath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\PatternMatch\\PatternMatch.csproj",
+  "projectFilePath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\PatternMatch\\PatternMatch.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

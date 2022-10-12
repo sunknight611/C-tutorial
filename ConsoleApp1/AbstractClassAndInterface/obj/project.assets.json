@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C#\\C#_tutorial\\ConsoleApp1\\AbstractClassAndInterface\\AbstractClassAndInterface.csproj",
+      "projectUniqueName": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\AbstractClassAndInterface\\AbstractClassAndInterface.csproj",
       "projectName": "AbstractClassAndInterface",
-      "projectPath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\AbstractClassAndInterface\\AbstractClassAndInterface.csproj",
+      "projectPath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\AbstractClassAndInterface\\AbstractClassAndInterface.csproj",
       "packagesPath": "C:\\Users\\81944\\.nuget\\packages\\",
-      "outputPath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\AbstractClassAndInterface\\obj\\",
+      "outputPath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\AbstractClassAndInterface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "F:\\vs SDK\\NuGetPackages"
