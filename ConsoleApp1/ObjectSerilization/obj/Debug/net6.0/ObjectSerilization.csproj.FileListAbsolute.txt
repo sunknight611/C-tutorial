@@ -1,0 +1,15 @@
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectSerilization\bin\Debug\net6.0\ObjectSerilization.exe
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectSerilization\bin\Debug\net6.0\ObjectSerilization.deps.json
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectSerilization\bin\Debug\net6.0\ObjectSerilization.runtimeconfig.json
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectSerilization\bin\Debug\net6.0\ObjectSerilization.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectSerilization\bin\Debug\net6.0\ObjectSerilization.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectSerilization\obj\Debug\net6.0\ObjectSerilization.csproj.AssemblyReference.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectSerilization\obj\Debug\net6.0\ObjectSerilization.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectSerilization\obj\Debug\net6.0\ObjectSerilization.AssemblyInfoInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectSerilization\obj\Debug\net6.0\ObjectSerilization.AssemblyInfo.cs
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectSerilization\obj\Debug\net6.0\ObjectSerilization.csproj.CoreCompileInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectSerilization\obj\Debug\net6.0\ObjectSerilization.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectSerilization\obj\Debug\net6.0\refint\ObjectSerilization.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectSerilization\obj\Debug\net6.0\ObjectSerilization.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectSerilization\obj\Debug\net6.0\ObjectSerilization.genruntimeconfig.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectSerilization\obj\Debug\net6.0\ref\ObjectSerilization.dll

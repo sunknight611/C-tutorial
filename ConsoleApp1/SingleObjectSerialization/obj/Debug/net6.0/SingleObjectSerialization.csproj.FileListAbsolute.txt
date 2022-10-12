@@ -1,0 +1,15 @@
+F:\C#\Csharp-tutorial\ConsoleApp1\SingleObjectSerialization\bin\Debug\net6.0\SingleObjectSerialization.exe
+F:\C#\Csharp-tutorial\ConsoleApp1\SingleObjectSerialization\bin\Debug\net6.0\SingleObjectSerialization.deps.json
+F:\C#\Csharp-tutorial\ConsoleApp1\SingleObjectSerialization\bin\Debug\net6.0\SingleObjectSerialization.runtimeconfig.json
+F:\C#\Csharp-tutorial\ConsoleApp1\SingleObjectSerialization\bin\Debug\net6.0\SingleObjectSerialization.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\SingleObjectSerialization\bin\Debug\net6.0\SingleObjectSerialization.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\SingleObjectSerialization\obj\Debug\net6.0\SingleObjectSerialization.csproj.AssemblyReference.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\SingleObjectSerialization\obj\Debug\net6.0\SingleObjectSerialization.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Csharp-tutorial\ConsoleApp1\SingleObjectSerialization\obj\Debug\net6.0\SingleObjectSerialization.AssemblyInfoInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\SingleObjectSerialization\obj\Debug\net6.0\SingleObjectSerialization.AssemblyInfo.cs
+F:\C#\Csharp-tutorial\ConsoleApp1\SingleObjectSerialization\obj\Debug\net6.0\SingleObjectSerialization.csproj.CoreCompileInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\SingleObjectSerialization\obj\Debug\net6.0\SingleObjectSerialization.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\SingleObjectSerialization\obj\Debug\net6.0\refint\SingleObjectSerialization.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\SingleObjectSerialization\obj\Debug\net6.0\SingleObjectSerialization.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\SingleObjectSerialization\obj\Debug\net6.0\SingleObjectSerialization.genruntimeconfig.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\SingleObjectSerialization\obj\Debug\net6.0\ref\SingleObjectSerialization.dll
