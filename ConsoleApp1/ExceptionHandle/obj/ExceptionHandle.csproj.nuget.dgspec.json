@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\C#_tutorial\\ConsoleApp1\\ExceptionHandle\\ExceptionHandle.csproj": {}
+    "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\ExceptionHandle\\ExceptionHandle.csproj": {}
   },
   "projects": {
-    "F:\\C#\\C#_tutorial\\ConsoleApp1\\ExceptionHandle\\ExceptionHandle.csproj": {
+    "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\ExceptionHandle\\ExceptionHandle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\C#_tutorial\\ConsoleApp1\\ExceptionHandle\\ExceptionHandle.csproj",
+        "projectUniqueName": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\ExceptionHandle\\ExceptionHandle.csproj",
         "projectName": "ExceptionHandle",
-        "projectPath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\ExceptionHandle\\ExceptionHandle.csproj",
+        "projectPath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\ExceptionHandle\\ExceptionHandle.csproj",
         "packagesPath": "C:\\Users\\81944\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\ExceptionHandle\\obj\\",
+        "outputPath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\ExceptionHandle\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\vs SDK\\NuGetPackages"

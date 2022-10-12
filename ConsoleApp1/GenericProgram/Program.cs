@@ -17,11 +17,19 @@ namespace GenericProgram
             //Generic g = new Generic();
             //g.GetMinValueFromArray<string>(str_test, ref minStr,ref maxStr);
             //g.GetMinValueFromArray<int>(num_test, ref a, ref b);
-            float[] arr = new float[] { 2.0f, 7.1f, 7.3f, 6.0f, 4.0f, 1.0f };
-            GenericList.Sort<float>(arr);
-            foreach (float i in arr)
+
+            //float[] arr = new float[] { 2.0f, 7.1f, 7.3f, 6.0f, 4.0f, 1.0f };
+            //GenericList<string>.Sort<float>(arr);
+            //foreach (float i in arr)
+            //{
+            //    Console.WriteLine("{0,-3:F1}",i);
+            //}
+
+            string[] arr = new string[] { "befadae", "beeefd","dawaeaea" };
+            GenericList<string>.Sort(arr);
+            foreach(var str in arr)
             {
-                Console.WriteLine("{0,-3:F1}",i);
+                Console.WriteLine(str);
             }
         }      
     }
@@ -37,7 +45,7 @@ namespace GenericProgram
            }
     }
 
-    public class GenericList
+    public class GenericList<T>:IComparable<T>
     {
        public static void Sort<T>(T[] arr)where T : IComparable
         {
@@ -58,6 +66,15 @@ namespace GenericProgram
                     }
                 }
        }
+
+        public int CompareTo(T? other)
+        {
+            if(other is string)
+            {
+                return string.Compare(this.ToString(),other.ToString());
+            }
+            else return CompareTo(other);
+        }
     }
 
 }

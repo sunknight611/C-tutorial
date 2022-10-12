@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u9HARPeLODBkCN6BdWbORGqf7lxbQuxWssQ9J0Ln12llYybCLKGNfFkNnZB2KV8dmDXrSQPh6kkUpCTWd//stg==",
+  "dgSpecHash": "nfnL+6nfE94L0j7sy3EwrkJQO24UkA8qEkHVIBc3GZUr6TUpNACBQU3PcMdQNXhszUMkySfBI0wsKhI2vHcP4w==",
   "success": true,
-  "projectFilePath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\ExceptionHandle\\ExceptionHandle.csproj",
+  "projectFilePath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\ExceptionHandle\\ExceptionHandle.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
