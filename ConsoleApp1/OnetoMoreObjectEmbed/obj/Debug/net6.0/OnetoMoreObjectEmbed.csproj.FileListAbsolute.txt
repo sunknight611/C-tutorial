@@ -1,0 +1,15 @@
+F:\C#\Csharp-tutorial\ConsoleApp1\OnetoMoreObjectEmbed\bin\Debug\net6.0\OnetoMoreObjectEmbed.exe
+F:\C#\Csharp-tutorial\ConsoleApp1\OnetoMoreObjectEmbed\bin\Debug\net6.0\OnetoMoreObjectEmbed.deps.json
+F:\C#\Csharp-tutorial\ConsoleApp1\OnetoMoreObjectEmbed\bin\Debug\net6.0\OnetoMoreObjectEmbed.runtimeconfig.json
+F:\C#\Csharp-tutorial\ConsoleApp1\OnetoMoreObjectEmbed\bin\Debug\net6.0\OnetoMoreObjectEmbed.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\OnetoMoreObjectEmbed\bin\Debug\net6.0\OnetoMoreObjectEmbed.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\OnetoMoreObjectEmbed\obj\Debug\net6.0\OnetoMoreObjectEmbed.csproj.AssemblyReference.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\OnetoMoreObjectEmbed\obj\Debug\net6.0\OnetoMoreObjectEmbed.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Csharp-tutorial\ConsoleApp1\OnetoMoreObjectEmbed\obj\Debug\net6.0\OnetoMoreObjectEmbed.AssemblyInfoInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\OnetoMoreObjectEmbed\obj\Debug\net6.0\OnetoMoreObjectEmbed.AssemblyInfo.cs
+F:\C#\Csharp-tutorial\ConsoleApp1\OnetoMoreObjectEmbed\obj\Debug\net6.0\OnetoMoreObjectEmbed.csproj.CoreCompileInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\OnetoMoreObjectEmbed\obj\Debug\net6.0\OnetoMoreObjectEmbed.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\OnetoMoreObjectEmbed\obj\Debug\net6.0\refint\OnetoMoreObjectEmbed.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\OnetoMoreObjectEmbed\obj\Debug\net6.0\OnetoMoreObjectEmbed.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\OnetoMoreObjectEmbed\obj\Debug\net6.0\OnetoMoreObjectEmbed.genruntimeconfig.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\OnetoMoreObjectEmbed\obj\Debug\net6.0\ref\OnetoMoreObjectEmbed.dll

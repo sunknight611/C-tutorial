@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\C#_tutorial\\ConsoleApp1\\GenericProgram\\GenericProgram.csproj": {}
+    "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\GenericProgram\\GenericProgram.csproj": {}
   },
   "projects": {
-    "F:\\C#\\C#_tutorial\\ConsoleApp1\\GenericProgram\\GenericProgram.csproj": {
+    "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\GenericProgram\\GenericProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\C#_tutorial\\ConsoleApp1\\GenericProgram\\GenericProgram.csproj",
+        "projectUniqueName": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\GenericProgram\\GenericProgram.csproj",
         "projectName": "GenericProgram",
-        "projectPath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\GenericProgram\\GenericProgram.csproj",
+        "projectPath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\GenericProgram\\GenericProgram.csproj",
         "packagesPath": "C:\\Users\\81944\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\GenericProgram\\obj\\",
+        "outputPath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\GenericProgram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\vs SDK\\NuGetPackages"

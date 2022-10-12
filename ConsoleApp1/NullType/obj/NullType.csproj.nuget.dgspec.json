@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\C#_tutorial\\ConsoleApp1\\NullType\\NullType.csproj": {}
+    "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\NullType\\NullType.csproj": {}
   },
   "projects": {
-    "F:\\C#\\C#_tutorial\\ConsoleApp1\\NullType\\NullType.csproj": {
+    "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\NullType\\NullType.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\C#_tutorial\\ConsoleApp1\\NullType\\NullType.csproj",
+        "projectUniqueName": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\NullType\\NullType.csproj",
         "projectName": "NullType",
-        "projectPath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\NullType\\NullType.csproj",
+        "projectPath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\NullType\\NullType.csproj",
         "packagesPath": "C:\\Users\\81944\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\NullType\\obj\\",
+        "outputPath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\NullType\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\vs SDK\\NuGetPackages"

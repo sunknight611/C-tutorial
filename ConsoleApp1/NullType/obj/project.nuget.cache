@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ORmnpfgxCMAq5XvV/nxGxFCOcbEUd8cyy56grhrZAWLlW/+LDgePSm/8FHuE+v/BDRVdGdVTQC3A1NG0qI1Clg==",
+  "dgSpecHash": "0ARMss4d7gINDIqABOgEn9QoXEl1AmUhhwZKucjPEyX2+/r8yMxY3CGc9mrr9CammIaUoN4ypVGHrW87GthTHQ==",
   "success": true,
-  "projectFilePath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\NullType\\NullType.csproj",
+  "projectFilePath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\NullType\\NullType.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

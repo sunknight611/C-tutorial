@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+j1y27P8xYMyKzf7eLoiNLNh6tx5TbxHd+0XsU36Y81V49enxjnNQAurPmnt7CcA56PGgOubqt2ugijANmyynQ==",
+  "dgSpecHash": "0hXnk0/3/JARAjbz44/v8Phegh7rwjobfSIhJBAlhk72omFr2D9d8xesYcsTBBAVQjhKAZnHeSQ3nr0fSmCabA==",
   "success": true,
-  "projectFilePath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\81944\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
   ],

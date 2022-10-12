@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iGtHQFyGQXWwM81uktSNLWRd59qtio7t58J4CjQq39Qq+SG1XwdhPmMHfdPf2PSywZepZYgkmEMS4erUzm6dUw==",
+  "dgSpecHash": "1NugnwUcobp8E4eWnqJH+gbgiDaLo33UMHyXgFHf14OyPdxmx0gLYXGIGC4gYJgIQ2bDJoAO41EUElxrk+j5hA==",
   "success": true,
-  "projectFilePath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\MyClassLibrary\\MyClassLibrary.csproj",
+  "projectFilePath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\MyClassLibrary\\MyClassLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\C#_tutorial\\ConsoleApp1\\ExceptionCatch\\ExceptionCatch.csproj": {}
+    "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\ExceptionCatch\\ExceptionCatch.csproj": {}
   },
   "projects": {
-    "F:\\C#\\C#_tutorial\\ConsoleApp1\\ExceptionCatch\\ExceptionCatch.csproj": {
+    "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\ExceptionCatch\\ExceptionCatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\C#_tutorial\\ConsoleApp1\\ExceptionCatch\\ExceptionCatch.csproj",
+        "projectUniqueName": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\ExceptionCatch\\ExceptionCatch.csproj",
         "projectName": "ExceptionCatch",
-        "projectPath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\ExceptionCatch\\ExceptionCatch.csproj",
+        "projectPath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\ExceptionCatch\\ExceptionCatch.csproj",
         "packagesPath": "C:\\Users\\81944\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\C#_tutorial\\ConsoleApp1\\ExceptionCatch\\obj\\",
+        "outputPath": "F:\\C#\\Csharp-tutorial\\ConsoleApp1\\ExceptionCatch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "F:\\vs SDK\\NuGetPackages"
