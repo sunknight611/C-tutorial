@@ -37,9 +37,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelfReferenceClass", "SelfR
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectClone", "ObjectClone\ObjectClone.csproj", "{AD13A18C-79A4-44D8-85FD-118BF52B0ADD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectSerilization", "ObjectSerilization\ObjectSerilization.csproj", "{CBCB7125-637E-4F84-BD25-3AD090FE26B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ObjectSerilization", "ObjectSerilization\ObjectSerilization.csproj", "{CBCB7125-637E-4F84-BD25-3AD090FE26B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleObjectSerialization", "SingleObjectSerialization\SingleObjectSerialization.csproj", "{92FA8019-080A-4232-BA2F-5F7320D69663}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleObjectSerialization", "SingleObjectSerialization\SingleObjectSerialization.csproj", "{92FA8019-080A-4232-BA2F-5F7320D69663}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectCloneViaSerialization", "ObjectCloneViaSerialization\ObjectCloneViaSerialization.csproj", "{A69F1E82-EECE-4C6E-A300-865D6CF51F94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegate", "Delegate\Delegate.csproj", "{E2C9F8BA-DDF5-4D9B-9DC6-59016C5B9A96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,6 +127,14 @@ Global
 		{92FA8019-080A-4232-BA2F-5F7320D69663}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92FA8019-080A-4232-BA2F-5F7320D69663}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92FA8019-080A-4232-BA2F-5F7320D69663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A69F1E82-EECE-4C6E-A300-865D6CF51F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69F1E82-EECE-4C6E-A300-865D6CF51F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69F1E82-EECE-4C6E-A300-865D6CF51F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69F1E82-EECE-4C6E-A300-865D6CF51F94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C9F8BA-DDF5-4D9B-9DC6-59016C5B9A96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C9F8BA-DDF5-4D9B-9DC6-59016C5B9A96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C9F8BA-DDF5-4D9B-9DC6-59016C5B9A96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C9F8BA-DDF5-4D9B-9DC6-59016C5B9A96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

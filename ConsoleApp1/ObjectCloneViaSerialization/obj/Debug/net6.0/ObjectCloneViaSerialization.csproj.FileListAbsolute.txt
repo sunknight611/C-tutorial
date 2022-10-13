@@ -1,0 +1,15 @@
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectCloneViaSerialization\bin\Debug\net6.0\ObjectCloneViaSerialization.exe
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectCloneViaSerialization\bin\Debug\net6.0\ObjectCloneViaSerialization.deps.json
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectCloneViaSerialization\bin\Debug\net6.0\ObjectCloneViaSerialization.runtimeconfig.json
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectCloneViaSerialization\bin\Debug\net6.0\ObjectCloneViaSerialization.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectCloneViaSerialization\bin\Debug\net6.0\ObjectCloneViaSerialization.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectCloneViaSerialization\obj\Debug\net6.0\ObjectCloneViaSerialization.csproj.AssemblyReference.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectCloneViaSerialization\obj\Debug\net6.0\ObjectCloneViaSerialization.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectCloneViaSerialization\obj\Debug\net6.0\ObjectCloneViaSerialization.AssemblyInfoInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectCloneViaSerialization\obj\Debug\net6.0\ObjectCloneViaSerialization.AssemblyInfo.cs
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectCloneViaSerialization\obj\Debug\net6.0\ObjectCloneViaSerialization.csproj.CoreCompileInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectCloneViaSerialization\obj\Debug\net6.0\ObjectCloneViaSerialization.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectCloneViaSerialization\obj\Debug\net6.0\refint\ObjectCloneViaSerialization.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectCloneViaSerialization\obj\Debug\net6.0\ObjectCloneViaSerialization.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectCloneViaSerialization\obj\Debug\net6.0\ObjectCloneViaSerialization.genruntimeconfig.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\ObjectCloneViaSerialization\obj\Debug\net6.0\ref\ObjectCloneViaSerialization.dll
