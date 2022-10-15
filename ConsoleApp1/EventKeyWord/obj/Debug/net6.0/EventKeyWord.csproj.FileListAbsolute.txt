@@ -1,0 +1,15 @@
+F:\C#\Csharp-tutorial\ConsoleApp1\EventKeyWord\bin\Debug\net6.0\EventKeyWord.exe
+F:\C#\Csharp-tutorial\ConsoleApp1\EventKeyWord\bin\Debug\net6.0\EventKeyWord.deps.json
+F:\C#\Csharp-tutorial\ConsoleApp1\EventKeyWord\bin\Debug\net6.0\EventKeyWord.runtimeconfig.json
+F:\C#\Csharp-tutorial\ConsoleApp1\EventKeyWord\bin\Debug\net6.0\EventKeyWord.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\EventKeyWord\bin\Debug\net6.0\EventKeyWord.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\EventKeyWord\obj\Debug\net6.0\EventKeyWord.csproj.AssemblyReference.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\EventKeyWord\obj\Debug\net6.0\EventKeyWord.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Csharp-tutorial\ConsoleApp1\EventKeyWord\obj\Debug\net6.0\EventKeyWord.AssemblyInfoInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\EventKeyWord\obj\Debug\net6.0\EventKeyWord.AssemblyInfo.cs
+F:\C#\Csharp-tutorial\ConsoleApp1\EventKeyWord\obj\Debug\net6.0\EventKeyWord.csproj.CoreCompileInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\EventKeyWord\obj\Debug\net6.0\EventKeyWord.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\EventKeyWord\obj\Debug\net6.0\refint\EventKeyWord.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\EventKeyWord\obj\Debug\net6.0\EventKeyWord.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\EventKeyWord\obj\Debug\net6.0\EventKeyWord.genruntimeconfig.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\EventKeyWord\obj\Debug\net6.0\ref\EventKeyWord.dll
