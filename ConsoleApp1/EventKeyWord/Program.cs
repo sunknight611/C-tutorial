@@ -26,20 +26,19 @@ namespace EventKeyWord
             //publisher.MyEvent += s2.MyMethod;
             string? input = null;
 
-            while(true)
+            while (true)
             {
                 input = Console.ReadLine();
-                if (input == "a")
+                if (input != null && input == "a")
                 {
                     publisher.MyEvent += new Subscriber().MyMethod;
                     publisher.FireEvent(new Random().Next(1, 100));
-                }               
+                }
                 else break;
             }
-
-            
-        }
+        }           
     }
+ 
 
     //public class Publisher
     //{
