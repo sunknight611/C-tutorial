@@ -1,0 +1,15 @@
+F:\C#\Csharp-tutorial\ConsoleApp1\CallBackExample\bin\Debug\net6.0\CallBackExample.exe
+F:\C#\Csharp-tutorial\ConsoleApp1\CallBackExample\bin\Debug\net6.0\CallBackExample.deps.json
+F:\C#\Csharp-tutorial\ConsoleApp1\CallBackExample\bin\Debug\net6.0\CallBackExample.runtimeconfig.json
+F:\C#\Csharp-tutorial\ConsoleApp1\CallBackExample\bin\Debug\net6.0\CallBackExample.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\CallBackExample\bin\Debug\net6.0\CallBackExample.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\CallBackExample\obj\Debug\net6.0\CallBackExample.csproj.AssemblyReference.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\CallBackExample\obj\Debug\net6.0\CallBackExample.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Csharp-tutorial\ConsoleApp1\CallBackExample\obj\Debug\net6.0\CallBackExample.AssemblyInfoInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\CallBackExample\obj\Debug\net6.0\CallBackExample.AssemblyInfo.cs
+F:\C#\Csharp-tutorial\ConsoleApp1\CallBackExample\obj\Debug\net6.0\CallBackExample.csproj.CoreCompileInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\CallBackExample\obj\Debug\net6.0\CallBackExample.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\CallBackExample\obj\Debug\net6.0\refint\CallBackExample.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\CallBackExample\obj\Debug\net6.0\CallBackExample.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\CallBackExample\obj\Debug\net6.0\CallBackExample.genruntimeconfig.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\CallBackExample\obj\Debug\net6.0\ref\CallBackExample.dll
