@@ -1,0 +1,12 @@
+F:\C#\Csharp-tutorial\ConsoleApp1\Test\bin\Debug\net6.0\Test.deps.json
+F:\C#\Csharp-tutorial\ConsoleApp1\Test\bin\Debug\net6.0\Test.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Test\bin\Debug\net6.0\Test.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Test\obj\Debug\net6.0\Test.csproj.AssemblyReference.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Test\obj\Debug\net6.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Csharp-tutorial\ConsoleApp1\Test\obj\Debug\net6.0\Test.AssemblyInfoInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Test\obj\Debug\net6.0\Test.AssemblyInfo.cs
+F:\C#\Csharp-tutorial\ConsoleApp1\Test\obj\Debug\net6.0\Test.csproj.CoreCompileInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\Test\obj\Debug\net6.0\Test.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Test\obj\Debug\net6.0\refint\Test.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\Test\obj\Debug\net6.0\Test.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\Test\obj\Debug\net6.0\ref\Test.dll
