@@ -1,0 +1,15 @@
+F:\C#\Csharp-tutorial\ConsoleApp1\DelegateAndEvent\DelegateAndEvent\bin\Debug\net6.0\DelegateAndEvent.exe
+F:\C#\Csharp-tutorial\ConsoleApp1\DelegateAndEvent\DelegateAndEvent\bin\Debug\net6.0\DelegateAndEvent.deps.json
+F:\C#\Csharp-tutorial\ConsoleApp1\DelegateAndEvent\DelegateAndEvent\bin\Debug\net6.0\DelegateAndEvent.runtimeconfig.json
+F:\C#\Csharp-tutorial\ConsoleApp1\DelegateAndEvent\DelegateAndEvent\bin\Debug\net6.0\DelegateAndEvent.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\DelegateAndEvent\DelegateAndEvent\bin\Debug\net6.0\DelegateAndEvent.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\DelegateAndEvent\DelegateAndEvent\obj\Debug\net6.0\DelegateAndEvent.csproj.AssemblyReference.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\DelegateAndEvent\DelegateAndEvent\obj\Debug\net6.0\DelegateAndEvent.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#\Csharp-tutorial\ConsoleApp1\DelegateAndEvent\DelegateAndEvent\obj\Debug\net6.0\DelegateAndEvent.AssemblyInfoInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\DelegateAndEvent\DelegateAndEvent\obj\Debug\net6.0\DelegateAndEvent.AssemblyInfo.cs
+F:\C#\Csharp-tutorial\ConsoleApp1\DelegateAndEvent\DelegateAndEvent\obj\Debug\net6.0\DelegateAndEvent.csproj.CoreCompileInputs.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\DelegateAndEvent\DelegateAndEvent\obj\Debug\net6.0\DelegateAndEvent.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\DelegateAndEvent\DelegateAndEvent\obj\Debug\net6.0\refint\DelegateAndEvent.dll
+F:\C#\Csharp-tutorial\ConsoleApp1\DelegateAndEvent\DelegateAndEvent\obj\Debug\net6.0\DelegateAndEvent.pdb
+F:\C#\Csharp-tutorial\ConsoleApp1\DelegateAndEvent\DelegateAndEvent\obj\Debug\net6.0\DelegateAndEvent.genruntimeconfig.cache
+F:\C#\Csharp-tutorial\ConsoleApp1\DelegateAndEvent\DelegateAndEvent\obj\Debug\net6.0\ref\DelegateAndEvent.dll

@@ -64,6 +64,7 @@ namespace Reflection
 
             TestParent test = SimpleClassFactory.CreateInstance();
             test.Test();
+            Console.ReadKey();
         }
     }
 
@@ -112,6 +113,7 @@ namespace Reflection
         {
             StreamReader sr = new StreamReader(filename);
             string output = sr.ReadLine();
+            sr.Close();
             Console.WriteLine(output);
             return output;
         }
